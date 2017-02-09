@@ -30,13 +30,13 @@ Creating text-based adventure games, similar to [Twine](https://twinery.org), in
   * Summary: 'Name' scene, picked up by mysterious person, rushed explanations of interdimensional peril, revelation you are not the main character in this narrative
   * [ ] Styling
 * [ ] Other dimension quest for gift
-  * ...
+  * Summary: ...
   * [ ] Styling
 * [ ] Return to Earth
-  * The Elixir, questions swirling, self-actualization of your place in scheme, attempts to prolong memories.
+  * Summary: The Elixir, questions swirling, self-actualization of your place in scheme, attempts to prolong memories.
   * [ ] Styling
 * [ ] Birthday Party (Outro?)
-  * The startling realization, 'Wiped'.
+  * Summary: The startling realization, 'Wiped'.
   * [ ] Styling
 
 * Misc
