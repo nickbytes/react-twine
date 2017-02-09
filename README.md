@@ -11,10 +11,34 @@ Creating text-based adventure games, similar to [Twine](https://twinery.org), in
 * Music 🎷 / sounds – certain parts of the game have sound
 * Twilio – I'm imagining at some point in the game having to call or text a number and use response in game form field (microservices via lambda or now).
 * Player to player interaction – no solid ideas here yet, but could be fun (web sockets seem cray).
-* Saved game status – localstorage? 
+* Saved game status – localstorage?
 
-## Agenda
-* Router – let's show how to make basic routes
-  * createMemoryHistory?
-* Have we refactored yet? – maybe we can do some things better
-* ...
+## Agenda (SPOILERS!!!!!!!!!!)
+* [ ] Create Index page
+  * [ ] Index page styles
+  * [ ] Index page heading
+* [ ] Create Introduction Page (first of story)
+  * [ ] Include story's introduction
+  * [ ] Style Introduction Page
+  * [ ] Add revealing text blocks
+  * [ ] Add next container navigation
+* [ ] Create train ride page
+  * Summary: Train switching scene, awake at stop in another world (is that lame?), magical creatures - frogs (why not?)
+  * [ ] Styling
+  * [ ] Add next container navigation
+* [ ] Create other dimension page
+  * Summary: 'Name' scene, picked up by mysterious person, rushed explanations of interdimensional peril, revelation you are not the main character in this narrative
+  * [ ] Styling
+* [ ] Other dimension quest for gift
+  * ...
+  * [ ] Styling
+* [ ] Return to Earth
+  * The Elixir, questions swirling, self-actualization of your place in scheme, attempts to prolong memories.
+  * [ ] Styling
+* [ ] Birthday Party (Outro?)
+  * The startling realization, 'Wiped'.
+  * [ ] Styling
+
+* Misc
+  * [ ] Meta tags
+  * [ ] Analytics
