@@ -8,7 +8,7 @@ const styles = StyleSheet.create({
   },
   link: {
     color: '#9aa2b1',
-  }
+  },
 });
 
 export default styles;

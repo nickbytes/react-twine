@@ -26,6 +26,7 @@ Creating text-based adventure games, similar to [Twine](https://twinery.org), in
   * Summary: Train switching scene, awake at stop in another world (is that lame?), magical creatures - frogs (why not?)
   * [ ] Styling
   * [ ] Add next container navigation
+  * https://www.youtube.com/watch?v=5ykMiOePuLU
 * [ ] Create other dimension page
   * Summary: 'Name' scene, picked up by mysterious person, rushed explanations of interdimensional peril, revelation you are not the main character in this narrative
   * [ ] Styling
