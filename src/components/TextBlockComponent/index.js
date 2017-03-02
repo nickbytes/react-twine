@@ -1,13 +1,13 @@
-import React from 'react';
+import React, { PropTypes } from 'react';
 import { css } from 'aphrodite';
 import styles from './style';
 
-const TextBlockComponent = ({text}) => {
-  return (
-    <p className={css(styles.container)}>
-      {text}
-    </p>
-  );
-};
+const TextBlockComponent = ({ text }) => (
+  <span className={css(styles.container)}>
+    {text}
+  </span>
+);
+
+TextBlockComponent.propTypes = { text: PropTypes.string.isRequired };
 
 export default TextBlockComponent;

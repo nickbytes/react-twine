@@ -1,11 +1,11 @@
 import { StyleSheet } from 'aphrodite';
+import t from 'tachyons-js';
 
 const styles = StyleSheet.create({
   container: {
-    padding: '2em',
-    color: '#e06c75',
-    fontFamily: '"Yatra One", cursive',
-    fontSize: '2em',
+    ...t.near_black,
+    ...t.lh_copy,
+    ...t.ma0,
   },
 });
 
