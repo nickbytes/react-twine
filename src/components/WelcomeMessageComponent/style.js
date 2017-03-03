@@ -15,18 +15,18 @@ const styles = StyleSheet.create({
   },
   version: {
     ...t.white,
-    ...t.moon_gray,
+    ...t.dark_gray,
     fontSize: '0.7em',
     ...t.serif,
   },
   subHeading: {
     ...t.serif,
-    ...t.moon_gray,
+    ...t.dark_gray,
     fontSize: '1em',
     margin: '0',
   },
   explainer: {
-    ...t.moon_gray,
+    ...t.dark_gray,
     lineHeight: '1.4em',
   },
 });

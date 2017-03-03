@@ -10,7 +10,7 @@ class IndexContainer extends Component {
 
         <Helmet
           style={[
-            { type: 'text/css', cssText: 'html {background-color: #fff;}' },
+            { type: 'text/css', cssText: 'html {background-color: #f9f9f9;}' },
           ]}
         />
 
