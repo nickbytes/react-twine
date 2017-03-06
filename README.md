@@ -1,7 +1,7 @@
 # 📜 react-twine
 Creating text-based adventure games, similar to [Twine](https://twinery.org), in React.
 
-Test URL: http://58b853f8a7e2d27765eff916.peddler-walrus-33707.netlify.com/
+Test URL: http://peddler-walrus-33707.netlify.com/
 
 ## Tools / Libs
 * Styling – Aphrodite (+ tachyons-js ?)
