@@ -4,7 +4,7 @@ import t from 'tachyons-js';
 const styles = StyleSheet.create({
   welcomeContainer: {
     margin: '3em auto',
-    maxWidth: '600px',
+    maxWidth: '55em',
     padding: '20px',
   },
   heading: {
