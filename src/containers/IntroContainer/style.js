@@ -94,7 +94,7 @@ const styles = StyleSheet.create({
     border: '0',
     ...t.bg_transparent,
     ...t.bb,
-    ...t.blue,
+    ...t.near_black,
     ...t.pointer,
     ...t.ma0,
     ...t.pa0,
